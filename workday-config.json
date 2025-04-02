@@ -1,0 +1,64 @@
+{
+  "personalInfo": {
+    "firstName": "Ashish",
+    "middleName": "Kumar",
+    "lastName": "Choubey",
+    "email": "contactchoubey@gmail.com",
+    "phone": { 
+        "countryCode" : "+91",
+        "mobile" : 7003776268,
+        "deviceType" : "Mobile"
+    },
+    "resumePath": "C:\\Users\\ASUS\\Desktop\\Job Change\\DE.pdf",
+    "address" : {
+                "addressLine1": "Lingrajpuram",
+                "city" : "Bengaluru",
+                "postalCode" : 560084,
+                "state" : "Karnataka"
+    }
+  },
+  "workHistory": [
+    {
+      "company": "Analog Devices",
+      "jobTitle": "Data Engineer",
+      "fromDate": "06/2022",
+      "toDate" : "Present",
+      "roleDescription": [
+        "Designing and developing IoT data solutions",
+        "Developing and maintaining a FastAPI-based API to efficiently serve diverse data sources and requirements for enterprise applications.",
+        "Working on Data Ingestion Layer for various data sources.",
+        "Built Software Analytics Data Platform, a central data platform for data from that provides meaningful insights for Software Supply Chain data for Software Leaders",
+        "Built Generative AI system to provide financial analyst like insights for earning call transcripts released by over 250 companies.",
+        "Automated Pipeline monitoring, built Data Quality Framework(DQ), KPIs population and Data Drift system as part of DataOps, resulting in timely alerts to the stakeholders and 94% reduction in resolution time.",
+        "Collaborating with stakeholders to develop ELT data pipelines that meet various business requirements.",
+        "Developed Sagemaker Ground Truth jobs being used by 18 internal experts for collecting feedback on prediction of a segmentation model being used by the marketing vertical.",
+        "Worked on Data Hygiene, cleansing and enriching data for 6+ pipelines",
+        "Responsible for Migration of 10+ Data Pipelines from on-premise SAS Environment to AWS Environment"
+      ]
+    },
+    {
+        "company": "Wipro Limited",
+        "title": "Data Engineer",
+        "fromDate" : "07/2018",
+        "toDate": "04/2020",
+        "description": [
+            "Worked on ETL Pipelines on Informatica PowerCenter, Teradata and SQL.",
+            "Responsible for creation and maintainance of ETL Data Pipelines",
+            "Designed PoC titled Digital Data Trust, a rating system to help Organizations evaluate their data across dimensions.",
+            "Designed ML model with training data extracted from various Informatica products’ APIs"
+        ]
+      }
+  ],
+  "education": [
+    {
+        "institution": "Indian Institute of Technology Bhubaneswar",
+        "degree": "Masters level degree",
+        "fieldOfStudy": "Computer Engineering"
+    },
+    {
+        "institution": "Government College of Engineering and Ceramic Technology",
+        "degree": "Bachelors level degree",
+        "fieldOfStudy": "Computer Engineering"
+    }
+  ]
+}
